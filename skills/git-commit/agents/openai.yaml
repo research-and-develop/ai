@@ -1,0 +1,4 @@
+interface:
+  display_name: 'Git Conventional Commit'
+  short_description: 'Perform git commit following conventional commits specification'
+  default_prompt: '/commit'
